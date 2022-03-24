@@ -1,3 +1,0 @@
-Informacion
-y
-Documentacion
